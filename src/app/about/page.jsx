@@ -29,11 +29,11 @@ const AboutPage = () => {
             <p>Year of experience</p>
           </div>
           <div className={styles.box}>
-            <h1>10 K+</h1>
+            <h1>12 K+</h1>
             <p>Year of experience</p>
           </div>
           <div className={styles.box}>
-            <h1>10 K+</h1>
+            <h1>14 K+</h1>
             <p>Year of experience</p>
           </div>
         </div>
